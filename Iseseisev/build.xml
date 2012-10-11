@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <project name="Iseseisev" default="compile" xmlns:ivy="antlib:org.apache.ivy.ant">
 
-	<property name="team.name" value="MingiNimi" />
+	<property name="team.name" value="Team3" />
 	<property name="project.name" value="piirivalve" />
 	<property name="project.dir" value="${basedir}" />
 
